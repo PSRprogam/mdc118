@@ -11,6 +11,7 @@ int main()
 
     // uma linha de código comentada não será compilada
     // printf("passei aqui de novo...\n");
+  
 
     return 0;
 }
